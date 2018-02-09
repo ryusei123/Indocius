@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865188695360",
+    "firebase_url": "https://indocius.firebaseio.com",
+    "project_id": "indocius",
+    "storage_bucket": "indocius.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865188695360:android:15e97abb2d967ecc",
+        "android_client_info": {
+          "package_name": "com.example.kyky.indocius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865188695360-p46mcphf453qslsifc7034qq37imnha3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kyky.indocius",
+            "certificate_hash": "27cb2a2d856801e61ab398a1732c227d5c7ca913"
+          }
+        },
+        {
+          "client_id": "865188695360-jvokqkalbbdink03b7ofgo24si83dkk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8wfZu0LXlp2ExHzhjDqUC78PDBAfwxpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865188695360-jvokqkalbbdink03b7ofgo24si83dkk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
